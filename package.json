@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.26.1",
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
     "dotenv": "^16.0.0",
@@ -19,6 +20,15 @@
     "joi-password-complexity": "^5.1.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.2.10",
-    "nodemon": "^2.0.15"
-  }
+    "nodemon": "^2.0.15",
+    "react-router-dom": "^6.3.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fares-sghaier/Auth-Mern.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fares-sghaier/Auth-Mern/issues"
+  },
+  "homepage": "https://github.com/Fares-sghaier/Auth-Mern#readme"
 }
