@@ -7,8 +7,8 @@ const connection = require('./dataBase');
 //database connection 
 connection()
 
-
-
+// process.on('uncaughtException', )
+// process.on('SIGTERM',)
 //middlewares
 
 app.use(express.json());
